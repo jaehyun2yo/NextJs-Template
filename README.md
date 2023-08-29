@@ -6,11 +6,11 @@ noe-sass
 
 ## 파일구조 
 
-###public 
+##public 
 - font  : 폰트파일
 - images : 이미지파일
 - svgs : svg 파일
-###src
+##src
 - app : 라우팅관련 코드
 - containers : 라우팅 제외한 코드들 작성후 app 폴더에 사용
 - components : 여러페이지에서 사용하는 공통 컴포넌트
