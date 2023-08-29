@@ -7,9 +7,9 @@ noe-sass
 ## 파일구조 
 
 public 
-ㄴ font  : 폰트파일
-ㄴ images : 이미지파일
-ㄴ svgs : svg 파일
+- font  : 폰트파일
+- images : 이미지파일
+- svgs : svg 파일
 src
 ㄴ app : 라우팅관련 코드
 ㄴ containers : 라우팅 제외한 코드들 작성후 app 폴더에 사용
